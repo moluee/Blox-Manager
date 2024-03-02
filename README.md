@@ -16,5 +16,5 @@
 }
 ```
 ---
-[Blox Manager Application Directory](https://discord.com/application-directory/1160070137580363787), [Blox Manager Support Server](https://discord.gg/ANeNwBAt7m)
+[Blox Manager Application Directory](https://discord.com/application-directory/1160070137580363787), [Blox Manager Support Server](https://discord.gg/ANeNwBAt7m), [Blox Manager GitBook]([https://discord.gg/ANeNwBAt7m](https://www.blox-manager.kro.kr/)https://www.blox-manager.kro.kr/)
 
